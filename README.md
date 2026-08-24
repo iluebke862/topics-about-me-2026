@@ -32,16 +32,16 @@ What is something you're particularly good at — technology related or not?
 
 Using a scale of 1–5, rate your current confidence with each of these:
 
-|Topic|l|1|2|3|4|5|
-|-|-|-|-|-|-|-|
-|Programing|l|O|O|O|X|O|
-|Python|l|O|O|O|O|X|
-|Debugging|l|O|O|O|X|O|
-|GitHub|l|O|O|X|O|O|
-|VS Code|l|O|O|O|X|O|
-|Working with files and folders|l|O|O|O|O|X|
-|Using the terminal|l|O|X|O|O|O|
-|Figuring things out when nobody gives you step-by-step instructions|l|O|O|O|O|X|
+|Topic|1|2|3|4|5|
+|-|-|-|-|-|-|
+|Programing|O|O|O|X|O|
+|Python|O|O|O|O|X|
+|Debugging|O|O|O|X|O|
+|GitHub|O|O|X|O|O|
+|VS Code|O|O|O|X|O|
+|Working with files and folders|O|O|O|O|X|
+|Using the terminal|O|X|O|O|O|
+|Figuring things out when nobody gives you step-by-step instructions|O|O|O|O|X|
 
 ---
 Which rating are you most confident about? Why?
@@ -103,19 +103,22 @@ You have access to computers, the internet, programming tools, and reasonable sc
 
 What would you build?
 
-Describe:
+### Describe:
 >Make a video game, now I don't really know what it would be but you practiacly saw me do this last year anyways (that one was kind of given up on though)
 
-What it would do
->Be a playable video game
+What it would do?
+>Be a playable video game, some ideas include :
+1. UCH fighting game
+2. RTS factory game
+3. possibly salvaging the wizard FPS
 
-Who would use it
+Who would use it?
 >Anyone that wants to play a video game
 
-Why you would want to build it
+Why you would want to build it?
 >To have fun and possibly become not broke
 
-What you would need to learn in order to make it
+What you would need to learn in order to make it?
 >More godot, more teamwork
 
 Don't worry about whether you currently know how to build it.
@@ -144,9 +147,7 @@ At least
 
 `print(inline code)`
 
-`while true:`
-
-`print(A code block)`
+`while (true) {System.out.println("a code block")}`
 
 [A link](https://www.google.com/)
 
@@ -155,9 +156,10 @@ At least
 A horizontal rule
 
 Do not add these randomly at the bottom of the document.
+> yup
 
 Use them naturally throughout your responses.
-
+>:)
 
 
 
