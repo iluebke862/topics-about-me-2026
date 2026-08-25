@@ -54,23 +54,32 @@ Which rating do you most want to improve this year? Why?
 
 Python or **Java**
 
+---
 Mac or **PC**
 
+---
 **GUI** or Command Line
 
+---
 **Build something useful** or build something ridiculous
 
+---
 **Work alone** or work with a team
 (***when in large projects as a team***)
 
+---
 Hardware or **Software**
 
+---
 **Fix a bug** or start over
 
+---
 **Google it** or figure it out yourself
 
+---
 **Game development** or AI
 
+---
 Cybersecurity or **Data Science**
 
 ## Part 4
@@ -108,9 +117,12 @@ What would you build?
 
 What it would do?
 >Be a playable video game, some ideas include :
-1. UCH fighting game
-2. RTS factory game
+1. [UCH](https://store.steampowered.com/app/386940/Ultimate_Chicken_Horse) fighting game
+2. [RTS](https://starcraft2.blizzard.com/) factory game
 3. possibly salvaging the wizard FPS
+![An image](./images.jpeg)
+4. `while true:`
+    `print(lol)`
 
 Who would use it?
 >Anyone that wants to play a video game
@@ -151,9 +163,10 @@ At least
 
 [A link](https://www.google.com/)
 
-![An image]()
+![An image](./images.jpeg)
 
 A horizontal rule
+---
 
 Do not add these randomly at the bottom of the document.
 > yup
