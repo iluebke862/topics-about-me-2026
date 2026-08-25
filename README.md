@@ -175,7 +175,16 @@ Use them naturally throughout your responses.
 >:)
 
 
+## Final Question
 
+At the very bottom of your README, add:
+
+Status Check
+
+What part of creating, committing, and pushing this repository was hardest for you today?
+> Procastinating doing it
+
+>workflow = do thing in vs, comit, push, come back later and repeat
 
 
 
